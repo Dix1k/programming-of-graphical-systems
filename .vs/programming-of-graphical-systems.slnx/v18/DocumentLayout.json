@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My\\work\\GitHub\\programming-of-graphical-systems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEC3EA2-893E-457A-9F10-0BB3B1F94B1F}|programming-of-graphical-systems.vcxproj|C:\\My\\work\\GitHub\\programming-of-graphical-systems\\lab01\\main01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BEC3EA2-893E-457A-9F10-0BB3B1F94B1F}|programming-of-graphical-systems.vcxproj|solutionrelative:lab01\\main01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main01.cpp",
+              "DocumentMoniker": "C:\\My\\work\\GitHub\\programming-of-graphical-systems\\lab01\\main01.cpp",
+              "RelativeDocumentMoniker": "lab01\\main01.cpp",
+              "ToolTip": "C:\\My\\work\\GitHub\\programming-of-graphical-systems\\lab01\\main01.cpp",
+              "RelativeToolTip": "lab01\\main01.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T11:41:18.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
