@@ -19,8 +19,8 @@
 ```
 programming-of-graphical-systems/
 │
-├── lab01-triangle/                    # Лабораторная работа №1: Первый треугольник
-│   ├── src/                            # Исходный код
+├── lab01/                    # Лабораторная работа №1: Первый треугольник
+│   ├── main.cpp                            # Исходный код
 │   │   ├── main.cpp
 │   │   └── shader.cpp
 │   ├── shaders/                         # GLSL шейдеры
