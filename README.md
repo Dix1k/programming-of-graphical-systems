@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Programming%20of%20Graphical%20Systems&fontSize=50&fontAlignY=35&desc=C++%20•%20ПИНб-31%20•%20Учебные%20проекты&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Programming%20of%20Graphical%20Systems&fontSize=50&fontAlignY=35&desc=C%2B%2B%20•%20ПИНб-31%20•%20Учебные%20проекты&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
 </div>
 
 ## 👨‍💻 О себе
