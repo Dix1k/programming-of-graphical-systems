@@ -22,7 +22,7 @@ int main() {
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
     glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
 
-    GLFWwindow* w = glfwCreateWindow(800, 600, "Круглый круг", NULL, NULL);
+    GLFWwindow* w = glfwCreateWindow(1024, 768, "Лаб №1", NULL, NULL);
     glfwMakeContextCurrent(w);
     gladLoadGLLoader((GLADloadproc)glfwGetProcAddress);
 
