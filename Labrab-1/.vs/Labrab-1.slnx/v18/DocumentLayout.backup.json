@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My\\work\\GitHub\\programming-of-graphical-systems\\Labrab-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04422E13-055A-4BCF-8FEB-212F5E6C77F1}|Labrab-1.vcxproj|C:\\My\\work\\GitHub\\programming-of-graphical-systems\\Labrab-1\\lab-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04422E13-055A-4BCF-8FEB-212F5E6C77F1}|Labrab-1.vcxproj|solutionrelative:lab-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab-1.cpp",
+              "DocumentMoniker": "C:\\My\\work\\GitHub\\programming-of-graphical-systems\\Labrab-1\\lab-1.cpp",
+              "RelativeDocumentMoniker": "lab-1.cpp",
+              "ToolTip": "C:\\My\\work\\GitHub\\programming-of-graphical-systems\\Labrab-1\\lab-1.cpp",
+              "RelativeToolTip": "lab-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-01T08:56:40.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
