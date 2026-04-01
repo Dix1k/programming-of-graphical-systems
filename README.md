@@ -21,6 +21,8 @@ programming-of-graphical-systems/
 │
 ├── Labrab-1
 │
+├── Labrab-2
+│
 └── README.md                                # Документация
 ```
 
