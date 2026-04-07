@@ -28,16 +28,6 @@ void drawDog()
     glPushMatrix();
     glTranslatef(1.2, 0.8, 0.0);
     glutSolidSphere(0.5, 20, 20);
-
-    glColor3f(0.0, 0.0, 0.0);
-    glPushMatrix();
-    glTranslatef(0.3, 0.1, 0.2);
-    glutSolidSphere(0.05, 10, 10);
-    glPopMatrix();
-    glPushMatrix();
-    glTranslatef(0.3, 0.1, -0.2);
-    glutSolidSphere(0.05, 10, 10);
-    glPopMatrix();
     glPopMatrix();
 
     //  Лапы

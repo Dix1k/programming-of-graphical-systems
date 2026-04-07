@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My\\work\\programming-of-graphical-systems\\Labrab-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E10CF6D-96BD-4BF5-BAB2-00BAECFB3986}|Labrab-3.vcxproj|C:\\My\\work\\programming-of-graphical-systems\\Labrab-3\\lab-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E10CF6D-96BD-4BF5-BAB2-00BAECFB3986}|Labrab-3.vcxproj|solutionrelative:lab-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab-3.cpp",
+              "DocumentMoniker": "C:\\My\\work\\programming-of-graphical-systems\\Labrab-3\\lab-3.cpp",
+              "RelativeDocumentMoniker": "lab-3.cpp",
+              "ToolTip": "C:\\My\\work\\programming-of-graphical-systems\\Labrab-3\\lab-3.cpp",
+              "RelativeToolTip": "lab-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T08:22:40.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
