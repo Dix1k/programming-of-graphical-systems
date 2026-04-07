@@ -19,11 +19,15 @@
 ```
 programming-of-graphical-systems/
 │
-├── Labrab-1
+├── Labrab-1                                # Фигуры
 │
-├── Labrab-2
+├── Labrab-2                                # Собака
 │
-└── README.md                                # Документация
+├── Labrab-3                                # Собака с текстурой
+│
+├── Labrab-4                                # Собака с анимацией
+│
+└── README.md                               # Документация
 ```
 
 ## 🛠️ Технологический стек
