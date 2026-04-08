@@ -218,7 +218,7 @@ int main(int argc, char** argv)
     glutInit(&argc, argv);
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
     glutInitWindowSize(800, 600);
-    glutCreateWindow("Лабораторная №4");
+    glutCreateWindow("Lab 4");
 
     init();
     glutDisplayFunc(display);
