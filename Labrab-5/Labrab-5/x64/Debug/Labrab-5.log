@@ -1,0 +1,8 @@
+﻿  Labrab-5.cpp
+C:\My\programming-of-graphical-systems\Labrab-5\Labrab-5.cpp(103,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\My\programming-of-graphical-systems\Labrab-5\Labrab-5.cpp(140,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\My\programming-of-graphical-systems\Labrab-5\Labrab-5.cpp(140,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\My\programming-of-graphical-systems\Labrab-5\Labrab-5.cpp(176,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\My\programming-of-graphical-systems\Labrab-5\Labrab-5.cpp(177,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\My\programming-of-graphical-systems\Labrab-5\Labrab-5.cpp(251,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Labrab-5.vcxproj -> C:\My\programming-of-graphical-systems\Labrab-5\x64\Debug\Labrab-5.exe

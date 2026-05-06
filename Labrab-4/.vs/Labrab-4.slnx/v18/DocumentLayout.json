@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\My\\work\\programming-of-graphical-systems\\Labrab-4\\",
+  "WorkspaceRootPath": "C:\\My\\programming-of-graphical-systems\\Labrab-4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8306B228-ED46-4118-ADC5-1FD5BAC350D7}|Labrab-4.vcxproj|C:\\My\\work\\programming-of-graphical-systems\\Labrab-4\\lab-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8306B228-ED46-4118-ADC5-1FD5BAC350D7}|Labrab-4.vcxproj|C:\\My\\programming-of-graphical-systems\\Labrab-4\\lab-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8306B228-ED46-4118-ADC5-1FD5BAC350D7}|Labrab-4.vcxproj|solutionrelative:lab-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "lab-4.cpp",
-              "DocumentMoniker": "C:\\My\\work\\programming-of-graphical-systems\\Labrab-4\\lab-4.cpp",
+              "DocumentMoniker": "C:\\My\\programming-of-graphical-systems\\Labrab-4\\lab-4.cpp",
               "RelativeDocumentMoniker": "lab-4.cpp",
-              "ToolTip": "C:\\My\\work\\programming-of-graphical-systems\\Labrab-4\\lab-4.cpp",
+              "ToolTip": "C:\\My\\programming-of-graphical-systems\\Labrab-4\\lab-4.cpp",
               "RelativeToolTip": "lab-4.cpp",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAAANwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAANcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-07T09:01:56.522Z",
               "EditorCaption": ""

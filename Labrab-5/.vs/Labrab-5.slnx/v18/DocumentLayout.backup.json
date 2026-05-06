@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My\\programming-of-graphical-systems\\Labrab-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{107A4F4D-ED09-495B-A686-80553C49A8AF}|Labrab-5.vcxproj|C:\\My\\programming-of-graphical-systems\\Labrab-5\\Labrab-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{107A4F4D-ED09-495B-A686-80553C49A8AF}|Labrab-5.vcxproj|solutionrelative:Labrab-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Labrab-5.cpp",
+              "DocumentMoniker": "C:\\My\\programming-of-graphical-systems\\Labrab-5\\Labrab-5.cpp",
+              "RelativeDocumentMoniker": "Labrab-5.cpp",
+              "ToolTip": "C:\\My\\programming-of-graphical-systems\\Labrab-5\\Labrab-5.cpp",
+              "RelativeToolTip": "Labrab-5.cpp",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAAABUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-06T05:48:58.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
